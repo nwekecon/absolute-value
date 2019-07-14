@@ -1,0 +1,31 @@
+
+
+a{
+	text-transform: uppercase;
+}
+
+.navbar-collapse{
+ justify-content: flex-end;
+}
+
+h1{
+	padding:35px;
+}
+
+#footer {
+
+
+position: absolute;
+
+left: 0;
+
+right: 0;
+
+bottom: 0;
+
+
+}
+
+button {
+	background-color: #382d4f;
+}
